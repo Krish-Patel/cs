@@ -25,4 +25,21 @@ It helps the program talk to the computer.
 
 ```
 sudo startxfce4
-```
+
+## Pros and cons of linux
+ 
++ Anyone can contribute 
++ Free and secure
++ Customizable
++ A ton of developer tools
+
+## Cons: 
+
++ There’s no company that will fix things when they go wrong.
+
+## What are the two	 things we installed inside linux:
+
++ Google chrome
+
++ Sublime text
+
