@@ -44,3 +44,11 @@ sudo startxfce4
 
 + Sublime text
 
+## Data types
+
++ Int is for numbers
++ Float is for decimals
++ Char is for letters
++ Long is for big numbers
++ Short is for small numbers
++ String is for words
