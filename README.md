@@ -52,3 +52,12 @@ sudo startxfce4
 + Long is for big numbers
 + Short is for small numbers
 + String is for words
+
+ ## Commands
+
+ + sudo lets your run commands as administrator 
+ + apt helps install stuff
+ + ls shows you your folders 
+ + pwd tells you where you are 
+ + cd takes you place
+ + git is google drive for code
