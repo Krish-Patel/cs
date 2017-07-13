@@ -25,6 +25,7 @@ It helps the program talk to the computer.
 
 ```
 sudo startxfce4
+```
 
 ## Pros and cons of linux
  
