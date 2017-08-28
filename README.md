@@ -73,3 +73,9 @@ To run:
 ```
 java File
 ```
+###### How to post to git hub.
+```
+ git add -A
+ git commit -m "Message"
+ git push
+ ```
