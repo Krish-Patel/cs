@@ -61,3 +61,15 @@ sudo startxfce4
  + pwd tells you where you are 
  + cd takes you place
  + git is google drive for code
+
+### How to compile and run java
+
+To compile:
+```
+javac File.java
+```
+
+To run:
+```
+java File
+```

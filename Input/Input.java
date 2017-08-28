@@ -7,8 +7,34 @@
 			Scanner scan =new Scanner(System.in);
 			String name = scan.nextLine();
 
-			System.out.println("Hello, " + name) ;
+			if (name.equals ("Krish")){
+
+					System.out.println("Welcome to spinjitzu") ;
+
+			} else {System.out.println("Hello, " + name) ;
 
 
+			}		if (name.equals ("Parth")){
+
+					System.out.println("Welcome to spinjitzu") ;
+
+			} else {System.out.println("Hello, " + name) ;
+
+
+			}		if (name.equals ("Dylan")){
+
+					System.out.println("Welcome to spinjitzu") ;
+
+			} else {System.out.println("Hello, " + name) ;
+
+
+			}		if (name.equals ("Shaylan")){
+
+					System.out.println("Welcome to spinjitzu") ;
+
+			} else {System.out.println("Hello, " + name) ;
+
+
+			}
 		}
 	}
