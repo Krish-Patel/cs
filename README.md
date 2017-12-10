@@ -1,5 +1,19 @@
 # cs
 
+Computer science is the study of the layers of abstraction that make the computing experience possible.
+
++ What is a layer of abstration?
+
+It's the idea of a person, using something, not wanting to know how it's made, but just needs to know how to use it
+
++ Whats an example of an abstraction?
+
+If you are stapeling a paper, you don't need to know how the stapler was made, but how to use it   
+
++ Whats an example of an abstraction in computer science? 
+
+  I don't know how scanner was made, but I know how to use t
+
 ## Parts of an computer
 
 + CPU
